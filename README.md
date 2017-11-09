@@ -1,17 +1,24 @@
 # CSIDP
 Chondrichthyan Stable Isotope Data Project
 
+
 Welcome to the Chondrichthyan Stable Isotope Data Project. 
 
-Enclosed in these files you will find all relevant data, contacts and references associated with the publication : 
-#######INSERT PUBLICATION HERE
+Enclosed in these files you will find all relevant data, contacts and references associated with the publication: 
+A global perspective on the trophic geography of sharks
 
-This group aims to tackle some of the largest ecological questions about sharks, rays and chimeara through the use of stable isotope analysis. 
+This group aims to facilate and promote the progression of the ecological research of sharks, rays and chimaeras using stable isotope data.
 
-We provide the contact details and data holdings of all contributing authors for the above publication and encourage the future collaboration and addition of data to this work to further support future reasech into chondrichthyan ecology. 
+All data is owned by the contributing authors listed and if you would like to use these data for publication, please contact the contributing authors. 
 
-All data is owned by the contributing authors listed and if you would like to use any of the data for this research, please contact the contributing authors, ensuring that the CSIDG are cc'd on initial communications (###insert CSIDP email address here). 
+Please acknowledge the CSIDP in publications made using these data or facilated by this group.
+
+If you would like to join the CSIDP and contribute data please get in touch using the email below. 
+
+We hope you find this resource useful and look forward to following the progression of this field. 
 
 
-###need to finish
+
+Contact: sharkisotopes@gmail.com
+Managers: Christopher Bird & Clive Trueman
 
